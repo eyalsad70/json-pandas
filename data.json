@@ -1,0 +1,18 @@
+{
+  "three": {
+    "A": "AAA",
+    "B": "BBB",
+    "C": "CCC",
+    "D": "DDD",
+    "E": "EEE",
+    "F": "FFF"
+  },
+  "five": {
+    "A": "AAAAA",
+    "B": "BBBBB",
+    "C": "CCCCC",
+    "D": "DDDDD",
+    "E": "EEEEE",
+    "F": "FFFFF"
+  }
+}
